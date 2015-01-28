@@ -1,4 +1,6 @@
 # lobsta
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/janvanderhaegen/lobsta?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 lobsta is a representation of my methodology to a great development experience to create HTML SPAs over a .NET backend to create line-of-business (LOB) applications with a strong focus on development speed, extensibility, modularity, scalability and testability.
 
 lobsta aims to bring a set of proven and open source technologies together in a way that focuses on reducing waste: eliminate boilerplate code and duplications. Those technologies are (front-to-back):
